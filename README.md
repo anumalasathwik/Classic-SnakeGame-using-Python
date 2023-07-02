@@ -1,1 +1,1 @@
-# Classic-SnakeGame-using-Python
+# Classic-Snake-Game-using-Python
